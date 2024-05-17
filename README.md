@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World !!✨ 
+
+![Nikhil Patil](https://github.com/NikhilPatil96/NikhilPatil96/blob/main/np%20git.png)
 
 <!--
 **NikhilPatil96/NikhilPatil96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
