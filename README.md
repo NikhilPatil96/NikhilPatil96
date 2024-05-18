@@ -2,17 +2,24 @@
 
 ![Nikhil Patil](https://github.com/NikhilPatil96/NikhilPatil96/blob/main/np%20git.png)
 
-<!--
-**NikhilPatil96/NikhilPatil96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=💻📊🔎Data_Analytics;💻📊🔎📈Data_Science🤖).
+- 🔭 I’m currently working on Data Analysis
+- 🌱 I’m currently learning SQL, PowerBI.
+- 📫 How to reach me: Nikhilpatil23601@gmail.com
 
-Here are some ideas to get you started:
+### Tech Stack.
+#### Programming Languages.
+![python](https://github.com/NikhilPatil96/skill-icons/blob/main/python.png)
+![sql](https://github.com/NikhilPatil96/skill-icons/blob/main/sql.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Framework and libraries
+![jp](https://github.com/NikhilPatil96/skill-icons/blob/main/jp.png)
+![powerBI](https://github.com/NikhilPatil96/skill-icons/blob/main/powerBI.png)
+![tableau](https://github.com/NikhilPatil96/skill-icons/blob/main/tableau.png)
+![postgresql](https://github.com/NikhilPatil96/skill-icons/blob/main/postgresql.png)
+![excel](https://github.com/NikhilPatil96/skill-icons/blob/main/excel.png)
+![matplotlib](https://github.com/NikhilPatil96/skill-icons/blob/main/matplotlib.png)
+![seaborn](https://github.com/NikhilPatil96/skill-icons/blob/main/seaborn.png)
+![numpy](https://github.com/NikhilPatil96/skill-icons/blob/main/numpy.png)
+![pandas](https://github.com/NikhilPatil96/skill-icons/blob/main/pandas.png)
+
