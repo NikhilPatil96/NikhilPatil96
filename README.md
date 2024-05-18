@@ -12,13 +12,14 @@
 ![python](https://github.com/NikhilPatil96/skill-icons/blob/main/python.png)
 ![sql](https://github.com/NikhilPatil96/skill-icons/blob/main/sql.png)
 
-#### Framework and libraries
+#### Framework, Platforms, and libraries.
 ![jp](https://github.com/NikhilPatil96/skill-icons/blob/main/jp.png)
 ![powerBI](https://github.com/NikhilPatil96/skill-icons/blob/main/powerBI.png)
 ![tableau](https://github.com/NikhilPatil96/skill-icons/blob/main/tableau.png)
 ![postgresql](https://github.com/NikhilPatil96/skill-icons/blob/main/postgresql.png)
 ![excel](https://github.com/NikhilPatil96/skill-icons/blob/main/excel.png)
 ![matplotlib](https://github.com/NikhilPatil96/skill-icons/blob/main/matplotlib.png)
+![sklearn](https://github.com/NikhilPatil96/skill-icons/blob/main/sklearn.png)
 ![seaborn](https://github.com/NikhilPatil96/skill-icons/blob/main/seaborn.png)
 ![numpy](https://github.com/NikhilPatil96/skill-icons/blob/main/numpy.png)
 ![pandas](https://github.com/NikhilPatil96/skill-icons/blob/main/pandas.png)
