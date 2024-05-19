@@ -1,6 +1,6 @@
 ### Hello World !!✨ 
 
-![Nikhil Patil](https://github.com/NikhilPatil96/NikhilPatil96/blob/main/np%20git.png)
+![Nikhil Patil](https://github.com/NikhilPatil96/NikhilPatil96/blob/main/banner.gif)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=💻📊🔎Data_Analytics;💻📊🔎📈Data_Science🤖).
 - 🔭 I’m currently working on Data Analysis
